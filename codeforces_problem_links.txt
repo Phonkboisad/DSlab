@@ -1,0 +1,68 @@
+================================================================================
+CODEFORCES PRACTICE PROBLEMS: BUBBLE SORT, LINEAR SEARCH & BINARY SEARCH
+Prepared for CSE-2321 / CSE-2322 Mid-Term Exam Preparation
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1: BUBBLE SORT & LINEAR ARRAY SORTING
+--------------------------------------------------------------------------------
+1. Helpful Maths (CF 339A)
+   Difficulty: 800
+   Topic: Linear Array Sorting / Bubble Sort with String Parsing
+   Link: https://codeforces.com/problemset/problem/339/A
+
+2. Gravity Flip (CF 405A)
+   Difficulty: 900
+   Topic: Linear Array Ascending Sort / Bubble Sort Simulation
+   Link: https://codeforces.com/problemset/problem/405/A
+
+3. Queue at the School (CF 266B)
+   Difficulty: 800
+   Topic: Adjacent Swapping Simulation (Bubble Sort Inner Pass)
+   Link: https://codeforces.com/problemset/problem/266/B
+
+4. Twins (CF 160A)
+   Difficulty: 900
+   Topic: Descending Array Sorting / Greedy Sum Check
+   Link: https://codeforces.com/problemset/problem/160/A
+
+5. Sale (CF 34B)
+   Difficulty: 900
+   Topic: Array Sorting / Element Filtering
+   Link: https://codeforces.com/problemset/problem/34/B
+
+6. Remove Smallest (CF 1399A)
+   Difficulty: 800
+   Topic: Bubble Sort / Adjacent Difference Verification
+   Link: https://codeforces.com/problemset/problem/1399/A
+
+
+--------------------------------------------------------------------------------
+PART 2: LINEAR SEARCH & BINARY SEARCH ON LINEAR ARRAYS
+--------------------------------------------------------------------------------
+7. In Search of an Easy Problem (CF 1030A)
+   Difficulty: 800
+   Topic: Standard Linear Search Traversal
+   Link: https://codeforces.com/problemset/problem/1030/A
+
+8. New Year and Hurry (CF 750A)
+   Difficulty: 800
+   Topic: Linear Search / Binary Search on Ordered Sequences
+   Link: https://codeforces.com/problemset/problem/750/A
+
+9. Interesting Drink (CF 706B)
+   Difficulty: 1100
+   Topic: Sorting + Binary Search (Upper Bound Pattern)
+   Link: https://codeforces.com/problemset/problem/706/B
+
+10. Letters (CF 978C)
+    Difficulty: 1000
+    Topic: Prefix Sum Array + Binary Search
+    Link: https://codeforces.com/problemset/problem/978/C
+
+================================================================================
+EXAM PRACTICE TIP:
+For your exam preparation, solve these problems by manually coding your teacher's
+Bubble Sort, Linear Search, and Binary Search algorithms instead of relying on
+built-in STL functions (std::sort / std::binary_search).
+================================================================================
